@@ -1,7 +1,8 @@
-package com.abramkinapps.android.composition
+package com.abramkinapps.android.composition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.abramkinapps.android.composition.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
